@@ -7,7 +7,7 @@
   font-family: "Noto Sans", Helvetica, sans-serif;
 }
 .reveal a { color: #beg005a98; }
-.reveal img { max-height: 64vh; }
+.reveal img { max-height: 50vh; }
 .reveal .notes { display: none; }
 #doc .notes {
   border: 1px solid #7cf5a4;

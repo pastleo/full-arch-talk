@@ -11,7 +11,7 @@ by [PastLeo](https://pastleo.me), a little developer at [5xruby](https://5xruby.
 
 ---
 
-<img src="https://i.imgur.com/GHFhGVa.jpg?2" alt="archlinux vs other" style="max-height: 50vh;">
+![archlinux vs other](https://i.imgur.com/GHFhGVa.jpg?2)
 
 <p style='font-size: 25px;'>
 [modified from 『媽媽的一天快樂!』 - The Square Comics](https://www.facebook.com/thesquarecomics/photos/a.1883058891968500.1073741836.1443798492561211/1884775628463493)

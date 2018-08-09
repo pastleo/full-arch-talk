@@ -312,3 +312,11 @@ docker run -ti --rm \
 ### Thank you!
 
 #### Any questions?
+
+#### Link to this slides:
+
+![this slides qrcode](http://pimg.0rz.tw/qrcode/eFufE/default.png)
+
+#### [http://0rz.tw/eFufE](http://0rz.tw/eFufE)
+
+#### [github.com/pastleo/full-arch-talk](https://github.com/pastleo/full-arch-talk)

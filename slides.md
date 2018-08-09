@@ -33,10 +33,6 @@ by [PastLeo](https://pastleo.me), a little developer at [5xruby](https://5xruby.
 
 ---
 
-### Resource & Community
-
----
-
 ![archwiki1](https://i.imgur.com/0Jrhx4Q.png)
 
 ---
@@ -48,6 +44,12 @@ by [PastLeo](https://pastleo.me), a little developer at [5xruby](https://5xruby.
 ![archwiki3](https://i.imgur.com/2Icw3o1.png)
 
 [Mac - ArchWiki](https://wiki.archlinux.org/index.php/Mac)
+
+---
+
+#### WHY?
+
+### Resource & Community
 
 ---
 
@@ -83,6 +85,8 @@ install.txt
 root@archiso ~ # _
 ```
 
+### [Archlinux installation wiki](https://wiki.archlinux.org/index.php/installation_guide)
+
 ---
 
 ### Step 1: Connect to WIFI...
@@ -113,10 +117,9 @@ ping archlinux.org
 ```
 ---
 
-### There are many steps...
+### This is just a small part of my note
 
-* [Archlinux installation wiki](https://wiki.archlinux.org/index.php/installation_guide)
-* [My ArchLinux installation notes](https://hackmd.io/IR9az-g_RE2C3RmcHzmeEQ?view)
+#### [My ArchLinux installation notes](https://hackmd.io/IR9az-g_RE2C3RmcHzmeEQ?view)
 
 ---
 
@@ -127,8 +130,6 @@ ping archlinux.org
 ---
 
 ### to play Windows games
-
-#### ~~let's reinstall Windows~~
 
 #### [Dual boot with windows](https://wiki.archlinux.org/index.php/Dual_boot_with_Windows)
 
@@ -166,7 +167,6 @@ ping archlinux.org
 
 * GPU passthrough => PCI Host Devices
 * physical disk for vm => virtio
-* audio => AC97
 * mouse & keyboard => evdev passthrough
 
 [all together in a repo as note](https://github.com/pastleo/kvm-gpu-passing)
@@ -235,17 +235,6 @@ ping archlinux.org
 
 ---
 
-### tech stack of this docker image
-
-```
- ├── kernel api "/dev/..." <= linux kernel
- ├── pcscd <= in container
- ├── 健保卡網路服務 <= in container
- └── browser <= in container
-```
-
----
-
 ### the docker run
 
 ```shell=
@@ -256,6 +245,17 @@ docker run -ti --rm \
 ```
 
 my card reader is not a usb device
+
+---
+
+### tech stack of this docker image
+
+```
+ ├── kernel api "/dev/..." <= linux kernel
+ ├── pcscd <= in container
+ ├── 健保卡網路服務 <= in container
+ └── browser <= in container
+```
 
 ---
 
